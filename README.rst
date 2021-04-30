@@ -29,6 +29,10 @@ installation and usage instructions.
 .. _online: pg_repack_
 .. _issue: https://github.com/reorg/pg_repack/issues/23
 
+Fork changes
+------------
+
+Add support "exclude specific table and its inheritors"
 
 What about pg_reorg?
 --------------------
